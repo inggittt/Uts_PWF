@@ -10,9 +10,9 @@
 ## Di buat Oleh
 Inggit Muhaimini Fajri dari kelas IF20B dengan NIM 20416255201162
 
-## About Laravel
+## Tentan Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Laravel adalah framewok aplikasi web dengan sintaks ekspresif dan elegan. Web percaya bahwa pengembangan harus menjadi pengalaman yang menyenangkan dan kreatif untuk benar-benar memuaskan. Laravel menghilangkan kesulitan dari pengembangan dengan mengurangi tugas yang digunakan dalam banyak proyek web seperti::
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
